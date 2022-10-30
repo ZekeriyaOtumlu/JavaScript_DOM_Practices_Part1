@@ -1,0 +1,14 @@
+body,
+ul {
+    border: solid 3px red;
+    margin: auto;
+    padding: 30px;
+    display: block;
+}
+
+li {
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 10px;
+    ;
+}

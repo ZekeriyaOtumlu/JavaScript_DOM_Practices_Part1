@@ -1,0 +1,7 @@
+body,
+.div2,
+.div1 {
+    border: 2px solid blue;
+    margin: 30px;
+    padding: 30px;
+}
